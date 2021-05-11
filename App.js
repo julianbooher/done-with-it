@@ -8,6 +8,8 @@ import {
   View
 } from 'react-native';
 
+
+// main
 export default function App() {
   return ( 
     <View style={styles.container}>
